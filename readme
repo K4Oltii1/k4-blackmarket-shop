@@ -1,0 +1,21 @@
+# 🖤 K4 Blackmarket Shop
+
+A **secret, blipless black market** system for FiveM where players can buy illegal items and launder dirty money based on time-of-day tax rates. Perfect for adding an immersive, hidden economy to your roleplay server.
+
+---
+
+## ✨ Features
+- 🕵 **Hidden locations** – No map blips, only appears when you're close.
+- 📍 **Multiple shop coordinates** – Add as many as you want in `config.lua`.
+- 💵 **Dirty money laundering** – Configurable tax rates (e.g., 10% day, 5% night).
+- ⏳ **Progress bar animations** when buying or laundering.
+- 📦 **Fully configurable items & prices** – Customize in `config.lua`.
+- ⚡ **Optimized performance** – 0.00ms idle usage.
+
+---
+
+## 📂 Installation
+1. **Download** this repository and place the folder into your `resources` directory.
+2. Add the following to your `server.cfg`:
+   ```cfg
+   ensure k4_blackmarket
